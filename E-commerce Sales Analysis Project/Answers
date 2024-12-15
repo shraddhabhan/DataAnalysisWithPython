@@ -1,0 +1,15 @@
+Answers of the Question : 
+1.	You need to calculate the monthly sales of the store and identify which month had the highest sales and which month had the lowest sales. 
+:-  lowest sale : Feb  and Highest Sale : Nov
+2.	You need to analyze sales based on product categories and determine which category has the lowest sales and which category has the highest sales. 
+:- Lowest Sale : Office Supplies and Highest Sale : Technology
+3.	The sales analysis needs to be done based on sub-categories 
+:- Highest : Chairs
+4.	You need to analyze the monthly profit from sales and determine which month had the highest profit.
+:-  Lowest profit : Jan and Highest : Dec
+5.	Analyze the profit by category and sub-category.
+:- Highest category  : Technology   and Sub Category : Copiers
+6.	Analyze the sales and profit by customer segment. 
+:- Consumer is highest purchaser 
+7.	Analyze the sales to profit ratio 
+:- Consumer has the highest Ratio
